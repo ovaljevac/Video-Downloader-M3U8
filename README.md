@@ -29,3 +29,7 @@ You can use the **Video DownloadHelper** browser extension (available for Chrome
 3. Click the extension icon to view available streams.
 4. Copy the `.m3u8` link provided.
 
+## 📄 License
+
+MIT License — feel free to use, modify, and contribute.
+
